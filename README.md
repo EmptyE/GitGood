@@ -1,0 +1,2 @@
+# GitGood
+Just a test
